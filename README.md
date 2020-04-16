@@ -24,9 +24,6 @@ Install any dependencies if necessary.
 
 Contains the PDF version of the Jupyter Notebook for test6.jpg
 
-Prajwal Mavinkere Revanna
-ECE6560, Georgia Tech
-
 ### Image Copyrights
 
 The Test Pictures are Copyrighted by me.
