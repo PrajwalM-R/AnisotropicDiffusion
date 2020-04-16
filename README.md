@@ -29,4 +29,4 @@ Contains the PDF version of the Jupyter Notebook for test6.jpg
 The Test Pictures are Copyrighted by me.
 Put necessary mentions if using pictures as part of other work.
 
-Contact me prajwalmr@gatech.edu before using for publishing.
+Contact me prajwalmr4@gmail.com before using for publishing.
