@@ -6,7 +6,7 @@ Implementation of Perona-Malik Anisotropic Diffusion Algorithm and comparison wi
 
 ### Report
 
-prevanna3_Report.pdf contains the theory, math and results behind the implementation.
+Report.pdf contains the theory, math and results behind the implementation.
 
 ### Test Images
 
